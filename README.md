@@ -30,6 +30,12 @@ This means we restarted the container.
 <img width="1400" alt="sc15" src="https://github.com/benjaminellmer/CD_Exercise_05/assets/30144387/3ff45481-741b-471e-81b2-92871abed2e3">
 <img width="1418" alt="sc16" src="https://github.com/benjaminellmer/CD_Exercise_05/assets/30144387/41a0499e-191d-446e-af4f-7405b6fcaf3d">
 
+## Part 5
+<img width="604" alt="ns" src="https://github.com/benjaminellmer/CD_Exercise_05/assets/30144387/671b2b02-b575-497b-9fae-3ee47bc26a8a">
+<img width="665" alt="get-ns" src="https://github.com/benjaminellmer/CD_Exercise_05/assets/30144387/df21934d-5aca-4db2-8cd9-1bed3d1db4bf">
+<img width="632" alt="deployment" src="https://github.com/benjaminellmer/CD_Exercise_05/assets/30144387/79e3d22e-d208-47c7-9edb-77bbbd51fb92">
+<img width="665" alt="get-deployment" src="https://github.com/benjaminellmer/CD_Exercise_05/assets/30144387/7e325ef9-abe0-4a02-827d-ad070a58365c">
+
 
 
 
